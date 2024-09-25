@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/GOKUL-R18/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
+    **1.** Create a _[customer performance report](https://github.com/GOKUL-R18/Sales-Finance-Report-using-Excel/blob/main/Reports/Customer%20Performance%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/GOKUL-R18/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/GOKUL-R18/Sales-Finance-Report-using-Excel/blob/main/Reports/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/GOKUL-R18/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/GOKUL-R18/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/GOKUL-R18/Sales-Finance-Report-using-Excel/blob/main/Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/GOKUL-R18/Sales-Finance-Report-using-Excel/blob/main/Reports/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/GOKUL-R18/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/GOKUL-R18/Sales-Finance-Report-using-Excel/blob/main/Reports/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of finance analytics:** financial performance evaluation, support decision-making, and facilitate communication with stakeholders.
 
